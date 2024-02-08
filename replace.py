@@ -8,6 +8,6 @@ print(word_replace)
 upper_word = word_replace.upper()
 print(upper_word)
 # I can keep the variable 'word_replace' as it already has the space, but I just need to add '.upper()'
-lower_word = upper_word.lower()
-print(lower_word)
-# I just need to add the function '.lower()' to the previous variable.
+
+print(upper_word[::-1])
+# Use [::-1] to reverse the entire sentence from the beginning.
