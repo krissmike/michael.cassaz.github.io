@@ -1,4 +1,3 @@
-
 # Pseudocode
 
 sentence = input("Enter a sentence: ") # Ask the user to enter a sentence.
@@ -88,3 +87,4 @@ fact2 = fact2.strip()
 print(fact2)
 fact2 = fact2.split("WOW!")
 print(fact2)'''
+
