@@ -1,6 +1,6 @@
 # pseudocode
 
-# 1. i declare a variable like "superman" and ad "££££"
+# 1. I declare a variable like "superman" and ad "££££"
 # with the "strip" I ask to display without "£"
 
 hero = "£££batman£££"
